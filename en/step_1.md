@@ -1,58 +1,13 @@
-## Introduction
+--- task ---
 
-Add project description here. What will learners be making?
+The Crumble board's motor connections are the two terminals at the bottom end of the board on either side.
 
-### What you will make
+Connect one end of a crocodile clip the Motor 1 positive terminal (+). It is the second terminal up on the left side of the board. Connect the other end of the croc clip to the posive terminal of the DC motor. Again, this is usually marked with a '+' but if it is not clear which is the positive terminal, don't worry, just connect it to one of the two terminals.
 
---- no-print ---
-Add instructions for using the embedded content here.
+Next, connect another croc clip from the Motor 1 negative terminal (-) to the negative terminal of the motor.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![Crumble to DC motor connections](images/motor_connections.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+I have used red and black crocodile clips to make things clear, but any colours will work fine.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+--- /task ---
