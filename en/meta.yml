@@ -1,4 +1,4 @@
-title: connect-motor-crumble
+title: Connecting a DC motor to a Crumble
 hero_image: images/banner.png
 description: connect-motor-crumble description
 version: 4
@@ -6,6 +6,4 @@ listed: false
 copyedit: false
 last_tested: "2019-05-24"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Connecting a DC motor to a Crumble
